@@ -1,0 +1,19 @@
+.title {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.confirm {
+    background: lightgreen;
+    font-size: 24px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
